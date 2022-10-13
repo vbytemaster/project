@@ -5,4 +5,5 @@ This is awesome project.
 [Author](author.md)
 ## Some new section here
 ## Conflict
+## Conflict_2
 ## pull req
