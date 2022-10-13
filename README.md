@@ -5,4 +5,4 @@ This is awesome project.
 [Author](author.md)
 ## Some new section here
 ## Conflict
-## Conflict2
+## Conflict2.0
